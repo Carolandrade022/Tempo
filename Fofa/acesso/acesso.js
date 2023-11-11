@@ -35,7 +35,7 @@ if(usuario == "naty" && senha == "narol"){
 
     setTimeout(() => {
 
-    location.href = "file:///C:/Users/Vexus/Desktop/Tempo/Fofa/home/home.html"
+    location.href = "https://carolandrade022.github.io/Tempo/Fofa/home/home.html"
     }, 500);
     
 } else{
