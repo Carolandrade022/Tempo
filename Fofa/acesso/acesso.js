@@ -35,8 +35,7 @@ if(usuario == "naty" && senha == "narol"){
 
     setTimeout(() => {
 
-    location.href = "file:///C:/Users/Vexus/Desktop/Login-do-meu-coracao-main/home/home.html";
-
+    location.href = "file:///C:/Users/Vexus/Desktop/Tempo/Fofa/home/home.html"
     }, 500);
     
 } else{
@@ -45,8 +44,7 @@ if(usuario == "naty" && senha == "narol"){
 
     setTimeout(() => {
 
-        location.href = "file:///C:/Users/Vexus/Desktop/Login-do-meu-coracao-main/error/erro.html";
-    
+        location.href = "file:///C:/Users/Vexus/Desktop/Tempo/Fofa/error/erro.html"
         }, 500);
 
 };
