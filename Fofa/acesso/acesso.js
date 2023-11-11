@@ -44,7 +44,7 @@ if(usuario == "naty" && senha == "narol"){
 
     setTimeout(() => {
 
-        location.href = "file:///C:/Users/Vexus/Desktop/Tempo/Fofa/error/erro.html"
+        location.href = "https://carolandrade022.github.io/Tempo/Fofa/error/erro.html"
         }, 500);
 
 };
